@@ -1,3 +1,3 @@
 # Credit Card Customer & Transaction Analysis Dashboard
-POWER BI Dashboard
+ ##This project contains two Power BI dashboards:
 
