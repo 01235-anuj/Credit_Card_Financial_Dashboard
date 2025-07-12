@@ -47,20 +47,20 @@ Revenue by:
 
 ---
 
-## 📂 Files
+## Files
 - [`creditcardcustomerreport.pdf`](./creditcardcustomerreport.pdf) — Customer demographics and revenue insights.
 - [`creditcardtransactio report.pdf`](./creditcardtransactio%20report.pdf) — Transaction patterns and card usage behavior.
 
 ---
 
-## 🔍 Tools Used
+## Tools Used
 - Power BI Desktop
 - Data modeling
 - DAX measures for calculations
 
 ---
 
-## 💡 Key Business Insights
+## Key Business Insights
 - Low-income and retired customers contribute significantly to revenue.
 - Blue card holders are the largest customer segment by both revenue and transactions.
 - Bills and Entertainment are the highest transaction categories — suggesting targeting these for offers.
@@ -69,14 +69,14 @@ Revenue by:
 
 ---
 
-## 📬 Future Improvements
+## Future Improvements
 - Include predictive analytics for customer churn.
 - Build an interactive web dashboard.
 - Add data pipeline automation for regular updates.
 
 ---
 
-## 🏷️ Tags
+## Tags
 `Power BI` `Dashboard` `Customer Analytics` `Credit Card` `Data Visualization` `Business Intelligence`
 
 
